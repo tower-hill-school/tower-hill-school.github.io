@@ -1,3 +1,8 @@
+<style>
+body {background:blue;}
+  
+</style>
+
 # Hello World
 
 ## Greetings!!!
