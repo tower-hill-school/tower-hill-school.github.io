@@ -5,7 +5,7 @@ You have several options for recording your Zoom meetings.
 1. Record meetings manually to the cloud.
 1. Record meetings manually to your computer.
 
-## Which Optoin Is Best
+## Which Option Is Best
 The simplest option for most teachers is to have your meetings automatically stored to Zoom's cloud storage and then share those videos with your students. 
 
 According to [this document](https://docs.google.com/document/d/1DaOioCx5Edrz96x0vKvFC-igXZ6BooQkD90CiLQyt-M/edit), your cloud recordings will be retained for "approximately 3 months." If that meets your needs, your best option is almost certianly to automatically record to the cloud and learn how to share the links with students.
